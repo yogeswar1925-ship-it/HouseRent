@@ -168,7 +168,7 @@ The application uses **JSON Web Token (JWT)** authentication to secure user sess
 
 | Name | Role |
 |------|------|
-| **Vedicharla Harish** | Team Lead |
+| **Vedicharla Harish** | Team Lead Full Stack Developer|
 | **Yogeswarreddy Madithati** | Full Stack Developer |
 | **Kesari Lalitha** | Team Member |
 | **Pandeti Jaswanth Varma** | Team Member |
