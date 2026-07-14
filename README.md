@@ -103,7 +103,7 @@ HouseRent
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yogeswar1925-ship-it/HouseRent.git
+git clone 
 ```
 
 ### 2. Navigate to the Project Folder
@@ -168,8 +168,8 @@ The application uses **JSON Web Token (JWT)** authentication to secure user sess
 
 | Name | Role |
 |------|------|
-| **Vedicharla Harish** | Team Lead Full Stack Developer|
-| **Yogeswarreddy Madithati** | Full Stack Developer |
+| **Vedicharla Harish** | Team Lead |
+| **Yogeswarreddy Madithati** | Team Member |
 | **Kesari Lalitha** | Team Member |
 | **Pandeti Jaswanth Varma** | Team Member |
 | **Nulaka Yeswanth** | Team Member |
@@ -180,7 +180,7 @@ The application uses **JSON Web Token (JWT)** authentication to secure user sess
 
 **Yogeswarreddy Madithati**
 
-GitHub: https://github.com/yogeswar1925-ship-it
+GitHub: 
 
 ---
 
